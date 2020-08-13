@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Yousiadel/EmployeeDirectoryReact/static/css/main.80e25bae.chunk.css",
+    "main.js": "/Yousiadel/EmployeeDirectoryReact/static/js/main.ec17d992.chunk.js",
+    "main.js.map": "/Yousiadel/EmployeeDirectoryReact/static/js/main.ec17d992.chunk.js.map",
+    "runtime-main.js": "/Yousiadel/EmployeeDirectoryReact/static/js/runtime-main.27ed24db.js",
+    "runtime-main.js.map": "/Yousiadel/EmployeeDirectoryReact/static/js/runtime-main.27ed24db.js.map",
+    "static/js/2.c1e8bf86.chunk.js": "/Yousiadel/EmployeeDirectoryReact/static/js/2.c1e8bf86.chunk.js",
+    "static/js/2.c1e8bf86.chunk.js.map": "/Yousiadel/EmployeeDirectoryReact/static/js/2.c1e8bf86.chunk.js.map",
+    "index.html": "/Yousiadel/EmployeeDirectoryReact/index.html",
+    "precache-manifest.8bbb0471cb79353dbb921e8318533e42.js": "/Yousiadel/EmployeeDirectoryReact/precache-manifest.8bbb0471cb79353dbb921e8318533e42.js",
+    "service-worker.js": "/Yousiadel/EmployeeDirectoryReact/service-worker.js",
+    "static/css/main.80e25bae.chunk.css.map": "/Yousiadel/EmployeeDirectoryReact/static/css/main.80e25bae.chunk.css.map",
+    "static/js/2.c1e8bf86.chunk.js.LICENSE.txt": "/Yousiadel/EmployeeDirectoryReact/static/js/2.c1e8bf86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27ed24db.js",
+    "static/js/2.c1e8bf86.chunk.js",
+    "static/css/main.80e25bae.chunk.css",
+    "static/js/main.ec17d992.chunk.js"
+  ]
+}
